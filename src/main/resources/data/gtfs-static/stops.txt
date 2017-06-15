@@ -1,0 +1,5 @@
+stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,location_type,parent_station
+101,,LIFS Terminal East,,40.889248,-73.898583,,,0,
+102,,LIFS Terminal West,,40.889248,-73.898583,,,0,
+103,,South Ferry,,40.889248,-73.898583,,,0,
+104,,23rd St.,,40.884667,-73.90087,,,0,

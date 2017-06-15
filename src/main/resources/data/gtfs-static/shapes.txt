@@ -1,0 +1,6 @@
+shape_id,shape_pt_lat,shape_pt_lon,shape_pt_sequence,shape_dist_traveled
+1..W,40.702068,-74.013664,0,
+1..W,40.703199,-74.014792,1,
+1..W,40.703226,-74.014820,2,
+1..W,40.703253,-74.014846,3,
+

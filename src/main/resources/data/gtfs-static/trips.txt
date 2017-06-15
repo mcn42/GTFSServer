@@ -1,0 +1,4 @@
+route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
+1,A20170615ALL,A20170615ALL_0_W,Westbound to Manhattan,0,,1..W
+1,A20170615ALL,A20170615ALL_1_W,Westbound to Manhattan,0,,1..W
+
